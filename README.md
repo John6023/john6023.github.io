@@ -3,19 +3,19 @@
 You can use the [editor on GitHub](https://github.com/John6023/repo0106/edit/master/README.md) to maintain and preview the content for My website in Markdown files.
 
 
-##Picture
+## Picture
 <img src="http://i.imgur.com/dixdmHp.png">
 
-##GIF<p/>
+## GIF
 <img src="http://i.imgur.com/k13cVsk.gif" width="200" height="100">
 
-##表格<p/>
-```
+## 表格
+#
 |  | 姓名 | 年級 | 成績 |
 |:----|:------|:------:|------:|
 |1|111111|222222|333333|
 |2|222|333|111111|
-```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

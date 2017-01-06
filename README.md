@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/John6023/repo0106/edit/mas
 <img src="http://i.imgur.com/dixdmHp.png"></a>
 
 |  | 姓名 | 年級 | 成績 |
-|:----|:------:|:------:|------:|
+|:----|:------|:------:|------:|
 |1|111111|222222|333333|
 |2|222|333|111111|
 ### Markdown

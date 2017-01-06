@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/John6023/repo0106/edit/mas
 
 
 ##Picture
-<img src="http://i.imgur.com/dixdmHp.png"></a>
+<img src="http://i.imgur.com/dixdmHp.png">
 
-##GIF
-<img src="http://i.imgur.com/k13cVsk.gif" width="200" height="100"></a>
+##GIF<p/>
+<img src="http://i.imgur.com/k13cVsk.gif" width="200" height="100">
 
-##表格
+##表格<p/>
 ```
 |  | 姓名 | 年級 | 成績 |
 |:----|:------|:------:|------:|

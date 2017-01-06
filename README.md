@@ -5,9 +5,11 @@ You can use the [editor on GitHub](https://github.com/John6023/repo0106/edit/mas
 
 ##Picture
 <img src="http://i.imgur.com/dixdmHp.png"></a>
+
 ##GIF
 <img src="http://imgur.com/t/gif/k13cVsk" width="200" height="100"></a>
 
+##表格
 |  | 姓名 | 年級 | 成績 |
 |:----|:------|:------:|------:|
 |1|111111|222222|333333|

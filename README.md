@@ -7,13 +7,15 @@ You can use the [editor on GitHub](https://github.com/John6023/repo0106/edit/mas
 <img src="http://i.imgur.com/dixdmHp.png"></a>
 
 ##GIF
-<img src="http://imgur.com/t/gif/k13cVsk" width="200" height="100"></a>
+<img src="http://i.imgur.com/k13cVsk.gif" width="200" height="100"></a>
 
 ##表格
+```
 |  | 姓名 | 年級 | 成績 |
 |:----|:------|:------:|------:|
 |1|111111|222222|333333|
 |2|222|333|111111|
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

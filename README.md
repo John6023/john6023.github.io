@@ -5,8 +5,10 @@
 </body>
 #日本動畫－2017冬番推薦
 ##1. 為美好的世界獻上祝福！ 2期 この素晴らしい世界に祝福を! ２
-###PV  <video src="https://www.youtube.com/watch?v=9jVxMt845AY" controls></video>
-###twitter應援圖：<img src="http://konosuba.com/special/img/banner_4.jpg">
+###PV  
+<video src="https://www.youtube.com/watch?v=9jVxMt845AY" controls></video>
+###twitter應援圖：
+<img src="http://konosuba.com/special/img/banner_4.jpg">
 
 ## Picture
 <img src="http://i.imgur.com/dixdmHp.png" width="100" height="130">

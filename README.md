@@ -4,6 +4,7 @@
 所以在這裡還是先介紹點有趣的東西吧
 </body>
 #日本動畫－2017冬番推薦
+##為美好的世界獻上祝福！ 2期 この素晴らしい世界に祝福を! ２
 
 ## Picture
 <img src="http://i.imgur.com/dixdmHp.png" width="100" height="130">

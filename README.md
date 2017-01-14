@@ -7,7 +7,7 @@
 ##1. 為美好的世界獻上祝福！ 2期 この素晴らしい世界に祝福を! ２
 ###PV  
 
-<video src="https://www.youtube.com/watch?v=9jVxMt845AY" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9jVxMt845AY" frameborder="0" allowfullscreen></iframe>
 ###twitter應援圖：
 <img src="http://konosuba.com/special/img/banner_4.jpg">
 

@@ -1,8 +1,8 @@
 ## 歡迎來到我的網頁 Welcome to John6023 Pages
-<textarea style="font-size:25px">
+<body style="font-size:25px">
 原本想要介紹我做的實驗的，但是我現在還是一名大學生
 所以現在還是先介紹點有趣的東西吧
-</textarea>
+</body>
 
 ## Picture
 <img src="http://i.imgur.com/dixdmHp.png" width="100" height="130">

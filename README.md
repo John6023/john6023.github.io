@@ -64,9 +64,9 @@ PTT CChat版在當時每天都有一堆這部動畫的ANSI圖<br>
 
 |  | <font size="4">劇情</font> | <font size="4">作畫</font> | <font size="4">娛樂性</font> | <font size="4">綜合</font> |
 |:----|:------:|:------:|:------:|:------:|
-|<font color="#EA0000" size="4">為美好的世界獻上祝福！ 2期</font>|<font size="5">7</font>|<font size="5">6</font>|<font size="5">10</font>|<b><font color="#EA0000" size="5.5">8.7</font></b>|
+|<font color="#EA0000" size="4">為美好的世界獻上祝福！ 2期</font>|<font size="5">7</font>|<font size="5">6</font>|<font size="5">10</font>|<strong><font color="#EA0000" size="5.5">8.7</font></strong>|
 |<font color="#000079" size="4">政宗君的復仇</font>|<font size="5">8</font>|<font size="5">8</font>|<font size="5">9</font>|<font size="5">8</font>|
-|<font color="#007500" size="4">清戀</font>|<font size="5">8</font>|<b><font size="5.5">9.5</font></b>|<font size="5">7</font>|<font size="5">8</font>|
+|<font color="#007500" size="4">清戀</font>|<font size="5">8</font>|<strong><font size="5.5">9.5</font></strong>|<font size="5">7</font>|<font size="5">8</font>|
 
 <br>
 

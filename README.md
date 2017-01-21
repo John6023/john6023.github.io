@@ -9,6 +9,15 @@
 
 ## 1. 為美好的世界獻上祝福！ 2期 (この素晴らしい世界に祝福を! ２)
 <font size="4">首播時間：每週四 00:05</font><br>
+這部動畫在第一季的時候因為劇情娛樂性十足就十分出名了 <br>
+<font size="5">(∩ ◕_▩ )⊃━☆ EXPLOSION！</font> <br>
+EXPLOSION這個詞語在那時候洗了不少動畫討論區<br>
+PTT CChat版在當時每天都有一堆這部動畫的ANSI圖<br>
+可見這部動畫有十足的的影響力<br>
+雖然劇情普普，而且作畫和其他作品相比真的是很崩壞<br>
+但是還是讓人想要看下去<br>
+最大的原因就是在於劇情夠好笑的關係<br>
+因此這次能否維持同樣的搞笑程度是這一季的觀看重點<br>
 
 ### PV  
 
@@ -19,6 +28,11 @@
 
 ## 2. 政宗君的復仇 (政宗くんのリベンジ)
 <font size="4">首播時間：每週四 21:30</font><br>
+
+作畫普通，但是劇情還蠻搞笑的<br>
+這一部重點也是在娛樂大眾的部分<br>
+男主角會如何執行復仇計畫<br>
+但是又會發生什麼搞笑的意外呢？<br>
 
 ### PV第1弾
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYIn-gD3Kis" frameborder="0" allowfullscreen></iframe><br>
@@ -42,34 +56,16 @@
 ## GIF
 <img src="http://i.imgur.com/k13cVsk.gif" width="200" height="100">
 
-## 表格
+## 動畫評分預測表
 
-|  | 姓名 | 年級 | 成績 |
-|:----|:------|:------:|------:|
-|1|111111|222222|333333|
-|2|222|333|111111|
+|  | 劇情 | 作畫 | 娛樂性 | 綜合 |
+|:----|:------:|:------:|:------:|------:|
+|為美好的世界獻上祝福！ 2期|7|6|10|8|
+|政宗君的復仇|8|8|9|8|
+|清戀|8|9|7|8|
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

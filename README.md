@@ -7,8 +7,8 @@
 
 
 # 日本動畫－2017冬番推薦
-
-## 1. 為美好的世界獻上祝福！ 2期 (この素晴らしい世界に祝福を! ２)
+<br>
+## <font color="#CE0000">1. 為美好的世界獻上祝福！ 2期 (この素晴らしい世界に祝福を! ２)</font>
 <font size="4">首播時間：每週四 00:05</font><br>
 
 ### 簡介
@@ -28,7 +28,7 @@ PTT CChat版在當時每天都有一堆這部動畫的ANSI圖<br>
 
 ### twitter應援圖：
 <img src="http://konosuba.com/special/img/banner_4.jpg">
-
+<br>
 ## 2. 政宗君的復仇 (政宗くんのリベンジ)
 <font size="4">首播時間：每週四 21:30</font><br>
 

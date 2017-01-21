@@ -10,7 +10,7 @@
 <br>
 
 ## <font color="#CE0000"> 1. 為美好的世界獻上祝福！ 2期 (この素晴らしい世界に祝福を! ２)</font>
-<font size="4"><font color="#CE0000">首播時間：每週四 00:05</font><br>
+<font color="#CE0000"><font size="4">首播時間：每週四 00:05</font></font><br>
 
 ### 簡介
 這部動畫在第一季的時候因為劇情娛樂性十足就十分出名了 <br>

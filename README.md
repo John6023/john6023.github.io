@@ -46,7 +46,7 @@ PTT CChat版在當時每天都有一堆這部動畫的ANSI圖<br>
 ### PV第2弾
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XmfXcVLA1d8" frameborder="0" allowfullscreen></iframe><br>
 
-## <font color="#007500">3.清戀 (セイレン)</font>
+## <font color="#007500">3. 清戀 (セイレン)</font>
 <font size="4">首播時間：每週五 01:28</font><br>
 
 ### 簡介
@@ -64,9 +64,9 @@ PTT CChat版在當時每天都有一堆這部動畫的ANSI圖<br>
 
 |  | 劇情 | 作畫 | 娛樂性 | 綜合 |
 |:----|:------:|:------:|:------:|:------:|
-|為美好的世界獻上祝福！ 2期|7|6|10|<font color="#EA0000">8.7</font>|
-|政宗君的復仇|8|8|9|8|
-|清戀|8|9|7|8|
+|<font color="#EA0000">為美好的世界獻上祝福！ 2期</font>|7|6|<font size="3">10</font>|<font color="#EA0000">8.7</font>|
+|<font color="#000079">政宗君的復仇</font>|8|8|9|8|
+|<font color="#007500">清戀</font>|8|9|7|8|
 
 <br>
 

@@ -1,7 +1,7 @@
 ## 歡迎來到我的網頁 
 ## Welcome to John6023 Pages
 
-<font size="4">原本想要介紹我做的實驗的，但是我現在還是一名大學生 </font> <br>
+<font size="4">原本是要介紹實驗的，但是目前還沒甚麼成果 </font> <br>
 <font size="4">所以在這裡還是先介紹點有趣的東西吧 </font>
 
 
@@ -56,7 +56,7 @@ PTT CChat版在當時每天都有一堆這部動畫的ANSI圖<br>
 ## GIF
 <img src="http://i.imgur.com/k13cVsk.gif" width="200" height="100">
 
-## 動畫評分預測表
+## 本季動畫評分預測表
 
 |  | 劇情 | 作畫 | 娛樂性 | 綜合 |
 |:----|:------:|:------:|:------:|------:|

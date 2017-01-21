@@ -57,11 +57,8 @@ PTT CChat版在當時每天都有一堆這部動畫的ANSI圖<br>
 
 ## PV第1弾
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bgGs_xTFctY" frameborder="0" allowfullscreen></iframe>
-## Picture
-<img src="http://i.imgur.com/dixdmHp.png" width="100" height="130">
 
-## GIF
-<img src="http://i.imgur.com/k13cVsk.gif" width="200" height="100">
+<br>
 
 ## 本季動畫評分預測表
 
@@ -71,7 +68,13 @@ PTT CChat版在當時每天都有一堆這部動畫的ANSI圖<br>
 |政宗君的復仇|8|8|9|8|
 |清戀|8|9|7|8|
 
+<br>
 
+## Picture
+<img src="http://i.imgur.com/dixdmHp.png" width="100" height="130">
+
+## GIF
+<img src="http://i.imgur.com/k13cVsk.gif" width="200" height="100">
 
 
 

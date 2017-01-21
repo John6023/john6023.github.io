@@ -2,7 +2,7 @@
 ## Welcome to John6023 Pages
 
 <font size="4">原本是要介紹實驗的，但是目前還沒甚麼成果 </font> <br>
-<font size="4">所以在這裡還是先介紹點有趣的東西吧 </font>
+<font size="4">所以在這裡還是先介紹點有趣的東西吧 </font ><br>
 
 
 # 日本動畫－2017冬番推薦
